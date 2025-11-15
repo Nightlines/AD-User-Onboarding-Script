@@ -117,7 +117,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 👤 Author
 
 **Cameron O'Brien**
-* GitHub: [@CTOBrien](https://github.com/CTOBrien)
+* GitHub: [@CTOBrien](https://github.com/NightLines)
 * LinkedIn: [Cameron O'Brien](https://www.linkedin.com/in/cameron-o-brien-08b73131b)
 
 ## 🙏 Acknowledgments
