@@ -26,7 +26,7 @@ I built this script to solve that problem. It demonstrates my ability to apply m
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/CTOBrien/AD-User-Onboarding-Script.git
+   git clone https://github.com/Nightlines/AD-User-Onboarding-Script.git
    ```
 
 2. Prepare your `NewUsers.csv` file in the same directory with the following format:
